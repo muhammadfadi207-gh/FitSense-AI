@@ -1,0 +1,36 @@
+# Android
+.gradle/
+.idea/
+local.properties
+
+# Build folders
+build/
+app/build/
+
+# Native builds
+.externalNativeBuild/
+.cxx/
+
+# SDKs
+sdk/
+snpe-release/
+
+# Models
+Generate_models/model_binaries/
+Generate_models/val2017/
+Generate_models/val2017.zip
+Generate_models/yolo_nas_s.onnx
+Generate_models/HRNet-Human-Pose-Estimation/
+
+# DLCs
+*.dlc
+*.onnx
+*.pth
+
+# APKs
+*.apk
+*.aab
+
+# Misc
+.DS_Store
+Thumbs.db
